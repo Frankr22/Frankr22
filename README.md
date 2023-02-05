@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">A data analytics student</h3>
-🔭 I’m currently working on expanding my skills
 
-🌱 I’m currently learning the basics of Data Analytics through a Data Analytics Bootcamp
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frankr22&label=Profile%20views&color=0e75b6&style=flat" alt="Frankr22" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frankr22" alt="Frankr22" /></a> </p>
 
-👯 I’m looking to collaborate on basic Data Analytics projects
+💻 Focused on elevating my expertise in Data Analytics
 
-👨‍💻 All of my projects are available at https://github.com/Frankr22
+📊 Dipping my toes into the vast ocean of Data Analytics through a comprehensive bootcamp
 
-📫 How to reach me **robertlsfranklin@gmail.com
+🤝 Seeking potential partners for Data Analytics ventures
+
+🔗 My portfolio of projects can be viewed at https://github.com/Frankr22
+
+💬 Drop me a line at robertlsfranklin@gmail.com to connect
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
