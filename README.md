@@ -19,8 +19,6 @@
 
 💻 LinkedIn: https://www.linkedin.com/in/robertlsfranklin/
 
-🐦 Twitter: @frankr02
-
 🌐 Personal website: https://frankr22.github.io/
   
 </p>
