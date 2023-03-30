@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 📩 robertlsfranklin@gmail.com
+
 💻 LinkedIn: https://www.linkedin.com/in/robertlsfranklin/
 
 🐦 Twitter: @frankr02
